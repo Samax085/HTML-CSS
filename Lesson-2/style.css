@@ -1,0 +1,43 @@
+*{
+padding: 0;
+margin: 0;
+}
+header{
+    color: red;
+    text-align: center;
+    background-color: bisque;
+    
+}
+.myhoby{
+    
+    background-color: aquamarine;
+}
+.photoHoby{
+    width: 400px;
+    height: 300px;
+}
+.sport{
+    color: rgb(212, 255, 0);
+}
+.work{
+    margin-top: 20px;
+    background-color: blueviolet;
+}
+.photowork{
+    width: 400px;
+    height: 300px;
+}
+.mywork{
+    color: rgb(255, 0, 21);
+}
+.films{
+    margin-top: 20px;
+    background-color: brown;
+}
+.filmphoto{
+    width: 400px;
+    height: 300px;
+}
+.filmlink{
+    color: rgb(126, 122, 122);
+}
