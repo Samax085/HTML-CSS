@@ -1,0 +1,29 @@
+table, td, th, tr{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    width: 450px;
+    height: 30px;
+    
+}
+.tag{
+    background-color:  rgb(236, 123, 123);
+    color: white;
+}
+tr:nth-child(2n+3) td:first-child{
+    background-color: rgb(123, 123, 194);
+    color: white;
+}
+tr:nth-child(2n+4) td:first-child{
+    background-color: rgb(3, 3, 70);
+    color: white;
+}
+tr:nth-child(2n+3) td:nth-child(2){
+    background-color: rgb(3, 3, 70);
+    color: white;
+    width: 100px;
+}
+tr:nth-child(2n+4) td:nth-child(2){
+    background-color: rgb(123, 123, 194);
+    color: white;
+}
