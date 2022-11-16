@@ -1,0 +1,9 @@
+.class{
+    width: 400px;
+}
+body{
+    background-image: url("puppy-2785074__480.jpg");
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-attachment: fixed;
+}
