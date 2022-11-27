@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    display: flex;
+   width: 500px;
+   height: 500px;
+   background-color: rgb(49, 169, 49);
+   border-radius: 250px; 
+   z-index: 1;
+   position: relative;
+   justify-content: space-between;
+   flex-direction: row;
+}
+
+.eyes{
+    display: flex;
+    position: relative;
+    justify-content: center;
+    
+}
+.block1{
+   background-color: white;
+   width: 80px;
+   height: 80px;
+   border-radius: 50px;   
+   z-index: 2; 
+   padding-right: ;  
+   padding-left: 150px; 
+}
+.block2{
+    border-radius: 50px;
+    background-color: white;
+   width: 80px;
+   height: 80px;
+  
+   z-index: 2;
+}
+.block3{
+   
+}
